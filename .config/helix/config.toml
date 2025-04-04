@@ -1,0 +1,8 @@
+# theme = "onedark"
+# theme = "gruvbox"
+theme = "dracula"
+# theme = "solarized_dark"
+
+[editor]
+line-number = "relative"
+true-color = true
